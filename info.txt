@@ -1,1 +1,5 @@
 https://www.kaggle.com/antgoldbloom/covid19-data-from-john-hopkins-university
+
+preprocessing
+heatmap
+death rate over time
